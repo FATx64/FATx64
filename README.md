@@ -1,4 +1,7 @@
-### Hi there 👋
+Computer enthusias who love programming stuff
+I usually learn new things everyday to increase my skill up
+Feel free to see my repository here
+Thanks!
 
 <!--
 **FATx64/FATx64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
