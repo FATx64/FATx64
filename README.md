@@ -1,6 +1,9 @@
 Computer enthusias who love programming stuff
+<br>
 I usually learn new things everyday to increase my skill up
+<br>
 Feel free to see my repository here
+<br>
 Thanks!
 
 <!--
