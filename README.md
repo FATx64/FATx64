@@ -5,6 +5,9 @@ I usually learn new things everyday to increase my skill up
 Feel free to see my repository here
 <br>
 Thanks!
+<br>
+<br>
+Gen in touch : [Linkr.bio](https://linkr.bio/mfharid)
 
 <!--
 **FATx64/FATx64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
