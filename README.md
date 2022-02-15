@@ -7,7 +7,7 @@ Feel free to see my repository here
 Thanks!
 <br>
 <br>
-Gen in touch : [Linkr.bio](https://linkr.bio/mfharid)
+Get in touch : [Linkr.bio](https://linkr.bio/mfharid)
 
 <p align="left">
 <a href="https://github.com/FATx64">
