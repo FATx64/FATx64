@@ -47,9 +47,10 @@ I usually learn new things everyday to increase my skill up
 
 <br>
   
-  <a href ="https://www.linkedin.com/in/muhammad-fharid-akbar-24b9ab160/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://www.instagram.com/mfharid.18/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a href="https://discord.me/snowden#223" target="_blank"><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href ="https://www.linkedin.com/in/muhammad-fharid-akbar-24b9ab160/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://www.instagram.com/mfharid.18/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <img src="https://c.tenor.com/I4agzayzaXIAAAAM/lycoris-recoil-chisato.gif" align="right" width="250px" height="200px">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a><br><br>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a><br>
+  <a href="https://discord.me/snowden#223" target="_blank"><img src="https://discord.c99.nl/widget/theme-1/745218673274388572.png"></a><br>
 
   
 </div>
