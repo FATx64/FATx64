@@ -1,12 +1,12 @@
-<h1 align="center">~ Welcome to My Profile ~</h1>
+<h1 align="center"> Welcome to My Profile </h1>
 
 <div align="center">
-<img src="https://tenor.com/view/raise-a-suilen-bandori-bang-dream-gif-23250933.gif">
+<img src="https://media.discordapp.net/attachments/1077543300283760681/1079325511739768912/IMG_1577.jpeg?width=1440&height=589">
  </div>
  
 
-<h2 align="center"> ~ About me ~ </h2>
-<img src="https://tenor.com/view/masuki-satou-masuki-satou-masking-raise-a-suilen-gif-21199057.gif" height="250px" width="250px" align="right">
+<h2 align="center">  About me  </h2>
+<img src=https://media.discordapp.net/attachments/1065609225394475028/1079326611645677599/IMG_1675.JPG?width=250&height=250 align="right">
 <li>
 <b>Name:</b> Fharid </li>
 </li>
@@ -26,9 +26,9 @@
 Feel free to see my repository here,Thanks!
 
 <div>
-<h2 align="left">            ~ 📇 Knowledge 📇 ~</h2>
+<h2 align="left">            ~  Knowledge  ~</h2>
   <br><br>
-  <img src="https://tenor.com/view/shioriko-mifune-shioriko-mifune-love-live-sifas-gif-20766422.gif" align="right" width="373.5px" height="208.5px">
+  <img src="https://media.discordapp.net/attachments/1065609225394475028/1079328329477398550/FoNoanDakAAQgfb.jpeg?" align="right" width="300.5px" height="373.5px">
 <div>
   <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -43,7 +43,7 @@ Feel free to see my repository here,Thanks!
   <br>
     
     
-  <h2>         📝 ~ Contact me ~ 📝</h2>
+  <h2>          Contact me  </h2>
 
 <br>
   
@@ -64,7 +64,7 @@ Feel free to see my repository here,Thanks!
  
 <div align="center">
 <h2>Thankyou for coming!</h2>
-<img src="https://tenor.com/view/shioriko-shioriko-mifune-anime-love-live-love-live-nijigasaki-gif-25682875.gif" align="center">
+<img src="https://media.discordapp.net/attachments/1077543300283760681/1079333941565206550/FkbFMwCUEAAxJ5V.jpeg?width=739&height=476" align="center">
 </div>
 
   
