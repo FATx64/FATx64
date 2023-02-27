@@ -6,7 +6,7 @@
  
 
 <h2 align="center">  About me  </h2>
-<img src=https://media.discordapp.net/attachments/1065609225394475028/1079326611645677599/IMG_1675.JPG?width=250&height=250 align="right">
+<img src=https://media.discordapp.net/attachments/1065609225394475028/1079326611645677599/IMG_1675.JPG?width=250&height=280 align="right">
 <li>
 <b>Name:</b> Fharid </li>
 </li>
@@ -26,7 +26,7 @@
 Feel free to see my repository here,Thanks!
 
 <div>
-<h2 align="left">            ~  Knowledge  ~</h2>
+<h2 align="left">              Knowledge  ~</h2>
   <br><br>
   <img src="https://media.discordapp.net/attachments/1065609225394475028/1079328329477398550/FoNoanDakAAQgfb.jpeg?" align="right" width="300.5px" height="373.5px">
 <div>
