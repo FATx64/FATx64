@@ -20,7 +20,7 @@
 <b>State / Country :</b> ID
 </li>
 <li>
-  <b>Age : </b> 20
+  <b>Age : </b> 21
 </li>
 <br>
 Feel free to see my repository here,Thanks!
@@ -43,7 +43,7 @@ Feel free to see my repository here,Thanks!
   <br>
     
     
-  <h2>          Contact me  </h2>
+  <h2>  Another my connection  </h2>
 
 <br>
   
