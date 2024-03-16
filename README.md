@@ -1,8 +1,8 @@
 ![image](https://github.com/FATx64/FATx64/assets/73746785/93393ab7-a5b4-4899-ba55-e0454301bf15)<h1 align="center"> Welcome to My Profile </h1>
 
-<p align="center">
-<img src="https://tenor.com/view/die-cat-bazooka-death-funny-gif-13362773" alt="Crawling Sacchan">
- </p>
+<div align="center">
+<img src="https://tenor.com/view/die-cat-bazooka-death-funny-gif-13362773">
+</div>
 
 <h2 align="center">  About me  </h2>
 <img src=https://media.discordapp.net/attachments/1065609225394475028/1079326611645677599/IMG_1675.JPG?width=250&height=280 align="right">
