@@ -1,4 +1,5 @@
-![image](https://github.com/FATx64/FATx64/assets/73746785/93393ab7-a5b4-4899-ba55-e0454301bf15)<h1 align="center"> Welcome to My Profile </h1>
+![image](https://github.com/FATx64/FATx64/assets/73746785/93393ab7-a5b4-4899-ba55-e0454301bf15)
+<h1 align="center"> Welcome to My Profile </h1>
 
 <div align="center">
 <img src="https://tenor.com/view/die-cat-bazooka-death-funny-gif-13362773">
